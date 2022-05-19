@@ -1,0 +1,9 @@
+; Behavior
+rofi.combi-mode: window,drun,ssh
+rofi.modi:       combi
+
+; Appearance
+rofi.theme:      gruvbox-dark
+rofi.font:       mononoki Nerd Font 12
+rofi.location:   1
+rofi.width:      100
